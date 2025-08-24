@@ -1,0 +1,4 @@
+what is your purpose	I answer common questions and learn FAQs you add in the app.
+how do i add a new faq	Click the 'Add FAQ' button, enter a question and answer, and save.
+how to clear the chat	Type 'clear' and press Enter, or click the 'Send' after typing clear.
+what nlp do you use	I use tokenization, stopword removal, and TF-IDF similarity to find best matching FAQ.

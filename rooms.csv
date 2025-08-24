@@ -1,0 +1,9 @@
+roomId,category,pricePerNight
+S101,Standard,2500.0
+S102,Standard,2500.0
+S103,Standard,2400.0
+D201,Deluxe,4000.0
+D202,Deluxe,4200.0
+D203,Deluxe,4100.0
+U301,Suite,7000.0
+U302,Suite,7200.0
